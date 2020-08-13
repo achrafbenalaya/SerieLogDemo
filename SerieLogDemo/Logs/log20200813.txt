@@ -1,0 +1,3 @@
+08/13/2020 17:13:25 Application startinng up
+08/13/2020 17:13:34 IEnumerable<WeatherForecast>
+08/13/2020 17:13:35 HTTP "GET" "/weatherforecast" responded 200 in 6916.4178 ms
