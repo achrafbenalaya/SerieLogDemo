@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3fiURCsiREyT1qP4rZvyOzU1ZT4TiVILI5RA4QagIczNyRZWtULWag/EY2npsdjrbdXari2m+ZGlmdvRM/64yg==",
+  "dgSpecHash": "Ixm8/LdhcXPnSs7zpVc2WQiGmNhDtfHOu4yHTy7nQxOTF3txvXOr6VBqxYuPyFPqV4JCsHV5Yv4lzQnx5LuKhQ==",
   "success": true,
-  "projectFilePath": "D:\\AchrafBenAlaya\\Repos\\SerieLogDemoApp\\SerieLogDemo\\SerieLogDemo.csproj",
+  "projectFilePath": "C:\\Users\\AchrafBENALAYA\\source\\repos\\SerieLogDemo\\SerieLogDemo\\SerieLogDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AchrafBENALAYA\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\AchrafBENALAYA\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\2.0.4\\microsoft.dotnet.platformabstractions.2.0.4.nupkg.sha512",

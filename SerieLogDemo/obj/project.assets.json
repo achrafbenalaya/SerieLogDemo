@@ -3674,11 +3674,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AchrafBenAlaya\\Repos\\SerieLogDemoApp\\SerieLogDemo\\SerieLogDemo.csproj",
+      "projectUniqueName": "C:\\Users\\AchrafBENALAYA\\source\\repos\\SerieLogDemo\\SerieLogDemo\\SerieLogDemo.csproj",
       "projectName": "SerieLogDemo",
-      "projectPath": "D:\\AchrafBenAlaya\\Repos\\SerieLogDemoApp\\SerieLogDemo\\SerieLogDemo.csproj",
+      "projectPath": "C:\\Users\\AchrafBENALAYA\\source\\repos\\SerieLogDemo\\SerieLogDemo\\SerieLogDemo.csproj",
       "packagesPath": "C:\\Users\\AchrafBENALAYA\\.nuget\\packages\\",
-      "outputPath": "D:\\AchrafBenAlaya\\Repos\\SerieLogDemoApp\\SerieLogDemo\\obj\\",
+      "outputPath": "C:\\Users\\AchrafBENALAYA\\source\\repos\\SerieLogDemo\\SerieLogDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -3748,7 +3748,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
